@@ -22,7 +22,17 @@ https://swatches-lkzftbccpg.now.sh/?color=hotpink
 
 For hex codes you have to url encode the `#` with `%23`.
 
-rbg(), hsl(), and colour names are fine.
+https://swatches-lkzftbccpg.now.sh/?color=%234299FF
+
+For hsl() you have to encode the `%` with `%25`
+
+https://swatches-lkzftbccpg.now.sh/?color=hsl(52,100%25,20%25)
+
+rbg(), and css color names are fine.
+
+https://swatches-lkzftbccpg.now.sh/?color=rgb(255,220,0)
+https://swatches-lkzftbccpg.now.sh/?color=goldenrod
+https://swatches-lkzftbccpg.now.sh/?color=chartreuse
 
 ---
 
