@@ -1,0 +1,13 @@
+{
+  "name": "swatches",
+  "version": "1.0.0",
+  "description": "You want to put color swatches in your markdown, but you can't be bothered to make or host the pngs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "olizilla",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
