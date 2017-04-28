@@ -10,17 +10,17 @@ and have it render as:
 
 **why yes! SVG color swatches as a supernice service** thanks to the wonders of [now.sh](https://now.sh)
 
-![Charcoal](https://swatch.now.sh/?color=%2324364C)
-![Royal blue](https://swatch.now.sh/?color=%232B60D5)
-![Ultramarine blue](https://swatch.now.sh/?color=%23437AF4)
-![Bleu de France](hhttps://swatch.now.sh/?color=%234299FF)
-
 ```md
 ![Charcoal](https://swatch.now.sh/?color=%2324364C)
 ![Royal blue](https://swatch.now.sh/?color=%232B60D5)
 ![Ultramarine blue](https://swatch.now.sh/?color=%23437AF4)
 ![Bleu de France](https://swatch.now.sh/?color=%234299FF)
 ```
+
+![Charcoal](https://swatch.now.sh/?color=%2324364C)
+![Royal blue](https://swatch.now.sh/?color=%232B60D5)
+![Ultramarine blue](https://swatch.now.sh/?color=%23437AF4)
+![Bleu de France](https://swatch.now.sh/?color=%234299FF)
 
 Add your `color` at the end of the url, get back an svg square.
 
