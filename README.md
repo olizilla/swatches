@@ -40,6 +40,20 @@ rbg(), and css color names are fine.
 ![](https://swatch.now.sh/?color=goldenrod)
 ![](https://swatch.now.sh/?color=chartreuse)
 
+## Options
+
+`color` - an rgb or hsl or css color name. Default: `hotpink`
+`name` - an optional label for your color. Default: the value of `color`
+
+## Deploy
+
+Install `now` and run
+
+```shell
+now
+now alias <new deployment url> swatches
+```
+
 ---
 
 A [(╯°□°）╯︵TABLEFLIP](https://tableflip.io) side project.
