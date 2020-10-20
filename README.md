@@ -45,14 +45,17 @@ rbg(), and css color names are fine.
 `color` - an rgb or hsl or css color name. Default: `hotpink`
 `name` - an optional label for your color. Default: the value of `color`
 
-## Deploy
+## Development
 
-Install `now` and run
+Install `vercel` and run
 
 ```shell
-now
-now alias <new deployment url> swatches
+vercel dev
 ```
+
+## Deployment
+
+Pushes to the default branch are deployed.
 
 ---
 
